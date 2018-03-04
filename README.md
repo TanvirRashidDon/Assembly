@@ -1,8 +1,6 @@
-#Assembly
+# Simple assembly code for beginners
 
-Simple assembly code for beginners
-
-##Contains
+## Contains
 
 1. HELLOW.asm
 2. start-up.asm
@@ -18,3 +16,4 @@ Simple assembly code for beginners
 12. hexa to decimal.asm
 13. high-level structure.asm
 14. gates.asm
+```
